@@ -16,12 +16,8 @@ gem 'rake'
 # Component requirements
 gem 'sass'
 gem 'haml'
-gem 'compass'
 
-gem 'livingstyleguide',
-  :git => 'https://github.com/hagenburger/livingstyleguide',
-  :branch => 'development'
-
+gem 'livingstyleguide', '1.0.4'
 gem 'padrino-sprockets', :require => ['padrino/sprockets'], :git => 'git://github.com/nightsailer/padrino-sprockets.git'
 
 
