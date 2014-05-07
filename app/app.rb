@@ -5,6 +5,9 @@ module PadrinoLivingstyleguide
     register Padrino::Mailer
     register Padrino::Helpers
 
+    register Padrino::Sprockets
+    sprockets
+
     enable :sessions
 
     ##
