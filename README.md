@@ -8,7 +8,7 @@ This app is integrated into the [livingstyleguide example](https://github.com/ha
 took the SCSS code from other projects there.
 
 
-You can see the running app under <http://padrino-hello-world-anynines-mysql.de.a9sapp.eu/>.
+You can see the running app under <http://padrino-livingstyleguide.de.a9sapp.eu/assets/styleguide.html>.
 
 
 # Setup & Installation
