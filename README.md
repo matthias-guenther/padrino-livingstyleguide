@@ -21,7 +21,7 @@ You can see the running app under <http://padrino-livingstyleguide.de.a9sapp.eu/
   bundle exec padrino s
 
 
-Now you can open the style guide at <http://localhost:3000/assets/styleguide.html>
+Now you can open the style guide at <http://localhost:3000/assets/styleguide.html>.
 
 
 # Promotion
